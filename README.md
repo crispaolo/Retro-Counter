@@ -8,8 +8,8 @@ Il design é responsive per adattarsi ai vari dispositivi e dimensioni dello sch
 
 Linguaggi usati:
 
-Html
-Css
-Javascript
+- Html
+- Css
+- Javascript
 
 
