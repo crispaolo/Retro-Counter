@@ -1,34 +1,15 @@
 # Retro-Counter
 
-Logo JAVASCRIPT COUNTER
-Il sito web correlato a questo README file contiene un contatore con un valore di default (0) che può essere incrementato e decrementato a proprio piacimento con un semplice click.
+Questo sito web presenta un contatore con valore di default uguale a 0, il quale può essere aumentato o diminuito di un numero alla volta effettuando un click sull'apposito segno " + o - ".
 
-Inoltre ,se questo non bastasse, il sito presenta anche altre qualità e caratteristiche:
+Ho voluto dare un aspetto tecnologico retro anni 80.
 
-Logo Vantaggi e proprietà
-Presenza della Dark-mode
+Il design é responsive per adattarsi ai vari dispositivi e dimensioni dello schermo.
 
-Possibilità di facilitare alcune operazioni grazie alla presenza di alcuni tasti rapidi (solo su pc)
+Linguaggi usati:
 
-Design responsive in base al dispositivo
-
-Queste sono solo alcune delle varie proprietà del sito. Per saperne di più, clicca qui.
-
-Logo Linguaggi usati
-HTML
-CSS
-SCSS
+Html
+Css
 Javascript
-Logo Ringraziamenti
-Ringrazio per la realizzazione del sito tutte le risorse che hanno contribuito a tutto ciò.
 
-Per usufruire di tali risorse non vi basta far altro che cliccare alle parole chiave sotto evidenziate per andare direttamente alle varie pagine web.
 
-LOGO E ICONE
-Flaticon
-Font Awersome
-Google Fonts
-Logo Autore
-OllenRiot
-Logo Licensa
-MIT
